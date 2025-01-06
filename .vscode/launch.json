@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/HelloWorld/bin/Debug/net9.0/HelloWorld.dll",
+            "program": "${workspaceFolder}//CodeSignal-TDD/bin/Debug/net9.0//CodeSignal-TDD.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/HelloWorld",
+            "cwd": "${workspaceFolder}/CodeSignal-TDD",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
