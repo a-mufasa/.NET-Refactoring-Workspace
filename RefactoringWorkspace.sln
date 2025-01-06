@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RXNT", "RXNT\RXNT.csproj", "{69D98078-8DA2-456F-AF0F-42BC1C73733C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSignal-TDD", "CodeSignal-TDD\CodeSignal-TDD.csproj", "{5C41CCB5-D62D-43B1-A8CC-F9467FDEC287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RXNT", "RXNT\RXNT.csproj", "{16F57600-A377-4E57-AF02-F105DD7B0D1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{69D98078-8DA2-456F-AF0F-42BC1C73733C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69D98078-8DA2-456F-AF0F-42BC1C73733C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69D98078-8DA2-456F-AF0F-42BC1C73733C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69D98078-8DA2-456F-AF0F-42BC1C73733C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C41CCB5-D62D-43B1-A8CC-F9467FDEC287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C41CCB5-D62D-43B1-A8CC-F9467FDEC287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C41CCB5-D62D-43B1-A8CC-F9467FDEC287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C41CCB5-D62D-43B1-A8CC-F9467FDEC287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F57600-A377-4E57-AF02-F105DD7B0D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F57600-A377-4E57-AF02-F105DD7B0D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F57600-A377-4E57-AF02-F105DD7B0D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F57600-A377-4E57-AF02-F105DD7B0D1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
