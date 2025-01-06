@@ -1,6 +1,6 @@
 using Xunit;
 
-public class ShoppingCartTests : IDisposable
+public class ShoppingCartTests
 {
     private ShoppingCart _cart;
     private readonly Customer _regularCustomer;
@@ -71,11 +71,6 @@ public class ShoppingCartTests : IDisposable
                 InStock = true
             }
         };
-    }
-
-    public void Dispose()
-    {
-        // Cleanup after each test if needed
     }
 
     public class CartManagementTests : ShoppingCartTests
